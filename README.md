@@ -1,2 +1,2 @@
-# block-election
-Blockchain election - Learning project
+# blockchain
+Blockchain - Learning projects
